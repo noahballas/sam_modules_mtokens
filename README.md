@@ -1,1 +1,1 @@
-command for https://www.gmodstore.com/market/view/mtokens
+command sam for https://www.gmodstore.com/market/view/mtokens
